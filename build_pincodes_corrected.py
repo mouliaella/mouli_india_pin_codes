@@ -5,7 +5,7 @@ from collections import defaultdict
 
 # 1. Configuration
 input_csv = 'pincode.csv' # Rename your file to this
-output_dir = "dist1"
+output_dir = "dist"
 os.makedirs(output_dir, exist_ok=True)
 
 # 2. Data Storage
